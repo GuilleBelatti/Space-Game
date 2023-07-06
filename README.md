@@ -1,4 +1,4 @@
-# SpayZee
+# Space Game
  Technical exercise in healthy coding & design patterns and state-machines
 
 Spayzee is a simple top-down, 2D arcade-y shooter made to exemplify the use of certain design patterns.
